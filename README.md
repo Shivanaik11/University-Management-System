@@ -6,7 +6,7 @@
   <p align="center">
     " Digital Campus Simplified."
     <br/>
-    <a href="https://drive.google.com/file/d/1k35T2plLICuuwJIJoQ_r9BUdfotTNSuZ/view?usp=drive_link">View Demo</a>
+    <a href="https://drive.google.com/file/d/1qZpFbxQpPwsDFJOvzskVJUUawZk4jLjZ/view?usp=drivesdk">View Demo</a>
     .
     <a href="https://github.com/swasthishettyy/University-Management-System">Report a Bug</a>
   </p>
